@@ -1,4 +1,3 @@
-
 :root{--gold:#b9953f;--gold2:#d9c27b;--cream:#fbf8f0;--ink:#171717;--muted:#6d6a63;--line:#e7dfcc;--green:#34734b}
 *{box-sizing:border-box}body{margin:0;font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;color:var(--ink);background:linear-gradient(135deg,#fff 0%,#fff 55%,var(--cream) 100%);line-height:1.5}
 .top{height:5px;background:linear-gradient(90deg,var(--gold),var(--gold2),var(--gold))}
